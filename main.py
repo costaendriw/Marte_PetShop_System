@@ -5,7 +5,7 @@ def menu_principal():
     sistema = PetShopSystem()
     
     while True:
-        print(f"\n🐕 SISTEMA MARTE PETSHOP 🐱")
+        print(f"\n🐕 SISTEMA MARTE PETSHOP 🐱 ")
         print(f"{'='*35}")
         print("1. Cadastrar ração")
         print("2. Listar rações")
